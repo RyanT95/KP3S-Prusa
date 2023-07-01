@@ -1,10 +1,13 @@
 # Kingroon KP3S 3.0 Prusa Profile
-Prusa Slicer profiles for Kingroon KP3S 3.0 (Titan Extruder) includes BLTouch.
+PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder), also includes a version for BLTouch.
+
 
 ## How to use
-* Place **'Kingroon.idx'**, **'Kingroon.ini'** & the **'Kingroon'** folder in: *"C:\Program Files\Prusa3D\PrusaSlicer\resources\profiles"*.
+* Download the [latest release.](https://github.com/RyanT95/KP3S-Prusa/releases/latest)
 
-* *'Kingroon'* should now show up in the 'Other Vendors' section of the Configuration Wizard.
+* Extract the ZIP and move the **'Kingroon.idx'** & **'Kingroon.ini'** files and the **'Kingroon'** folder to: ```<PRUSA-INSTALL-DIR>\Prusa3D\PrusaSlicer\resources\profiles```
+
+* *'Kingroon'* should now show up in the *'Other Vendors'* section of the Configuration Wizard.
 
 * Select this, and choose from either *'Kingroon KP3S 3.0'* or *'Kingroon KP3S BLTouch'*.
 
@@ -75,6 +78,12 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
   * SUPER SPEED
 * Upgrades: BLTouch auto bed leveling sensor
 * Firmware: Stock / Marlin 2.1.1
+
+
+## Images
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/2.PNG)
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/4.PNG)
+
 
 ## License
 This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License - see the [LICENSE.md](https://github.com/RyanT95/KP3S-Prusa/blob/main/LICENSE) file for details.
