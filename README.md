@@ -17,8 +17,8 @@ Prusa Slicer profiles for Kingroon KP3S 3.0 (Titan Extruder) includes BLTouch.
 * I have included an alternate bed texture that doesn't have the X and Y axis helper. 
   * To use this, change lines *23* and *32* in *'Kingroon.ini'* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-alt.svg```
 
-&nbsp;
 
+## Firmware
 I have only tested these profiles with Marlin firmware, but they should still work with the stock firmware.
 
 If you are still running stock firmware, I *strongly* suggest upgrading to Marlin, as the stock firmware isn't that great.
