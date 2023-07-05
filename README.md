@@ -83,6 +83,7 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 ## Images
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/2.PNG)
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/4.PNG)
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/5.PNG)
 
 
 ## License
