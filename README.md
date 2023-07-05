@@ -17,8 +17,9 @@ PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder), also includes a ver
 
 * The KP3S is now added to Prusa as a printer, I have also included a custom buildplate and bed texture with a 10mm grid to aid in object placement.
 
-* I have included an alternate bed texture that doesn't have the X and Y axis helper. 
-  * To use this, change lines *23* and *32* in *'Kingroon.ini'* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-alt.svg```
+* I have included an alternate bed texture that doesn't have the X and Y axis helper, and an alternate bed model & texture for the original Kingroon build plate. 
+  * To use the alternate texture, change lines *23* and *32* in *'Kingroon.ini'* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-alt.svg```
+  * To use the Kingroon texture, change lines *22* and *31* in *'Kingroon.ini'* from ```bed_model = kp3s_bed.stl``` to ```bed_model = kp3s_bed_original.stl```, and lines *23* and *32* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-original.svg```
 
 
 ## Firmware
