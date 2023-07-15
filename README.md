@@ -18,9 +18,16 @@ PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder), also includes a ver
 * The KP3S is now added to Prusa as a printer, I have also included a custom buildplate and bed texture with a 10mm grid to aid in object placement.
 
 * I have included an alternate bed texture that doesn't have the X and Y axis helper, and an alternate bed model & texture for the original Kingroon build plate. 
-  * To use the alternate texture, change lines *23* and *32* in *'Kingroon.ini'* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-alt.svg```
-  * To use the Kingroon texture, change lines *22* and *31* in *'Kingroon.ini'* from ```bed_model = kp3s_bed.stl``` to ```bed_model = kp3s_bed_original.stl```, and lines *23* and *32* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-original.svg```
+  * To use the alternate texture, change lines *34* and *53* in *'Kingroon.ini'* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-alt.svg```
+  * To use the Kingroon texture, change lines *29* and *48* in *'Kingroon.ini'* from ```bed_model = kp3s_bed.stl``` to ```bed_model = kp3s_bed_original.stl```, and lines *34* and *53* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-original.svg```
+  
+  ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/7.png)
 
+## How to update
+* Extract the ZIP and move the **'Kingroon.idx'** & **'Kingroon.ini'** files and the **'Kingroon'** folder to: ```<PRUSA-INSTALL-DIR>\Prusa3D\PrusaSlicer\resources\profiles```
+
+* Open PrusaSlicer, go to 'Configuration' and click 'Check for Configuration Updates'.
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/6.PNG)
 
 ## Firmware
 I have only tested these profiles with Marlin firmware, but they should still work with the stock firmware.
