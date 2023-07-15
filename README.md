@@ -11,7 +11,7 @@ PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder), also includes a ver
 
 * Select this, and choose from either *'Kingroon KP3S 3.0'* or *'Kingroon KP3S BLTouch'*.
 
-* You can select configurations for *0.3mm, 0.4mm, 0.5mm & 0.6mm* nozzles.
+* You can select configurations for *0.2mm, 0.3mm, 0.4mm, 0.5mm & 0.6mm* nozzles.
 
 * Select the filament profiles you want to enable from the next screen, then change any other settings and click *Finish*.
 
