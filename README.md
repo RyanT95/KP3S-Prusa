@@ -44,9 +44,9 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 ### Kingroon KP3S 3.0
 * Vendor: Kingroon
 * Extruder: Titan Direct Drive
-* Nozzles: 0.3mm, 0.4mm, 0.5mm & 0.6mm
+* Nozzles: 0.2mm, 0.3mm, 0.4mm, 0.5mm & 0.6mm
 * Print Profiles:
-  * 0.06mm ULTRADETAIL  *(0.3mm & 0.4mm nozzles only)*
+  * 0.06mm ULTRADETAIL  *(0.2mm, 0.3mm & 0.4mm nozzles only)*
   * 0.08mm SUPERDETAIL
   * 0.10mm HIGHDETAIL
   * 0.12mm DETAIL
@@ -67,9 +67,9 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 ### Kingroon KP3S BLTouch
 * Vendor: Kingroon
 * Extruder: Titan Direct Drive
-* Nozzles: 0.3mm, 0.4mm, 0.5mm & 0.6mm
+* Nozzles: 0.2mm, 0.3mm, 0.4mm, 0.5mm & 0.6mm
 * Print Profiles:
-  * 0.06mm ULTRADETAIL  *(0.3mm & 0.4mm nozzles only)*
+  * 0.06mm ULTRADETAIL  *(0.2mm, 0.3mm & 0.4mm nozzles only)*
   * 0.08mm SUPERDETAIL
   * 0.10mm HIGHDETAIL
   * 0.12mm DETAIL
