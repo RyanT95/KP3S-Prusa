@@ -46,16 +46,16 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 * Extruder: Titan Direct Drive
 * Nozzles: 0.2mm, 0.3mm, 0.4mm, 0.5mm & 0.6mm
 * Print Profiles:
-  * 0.06mm ULTRADETAIL  *(0.2mm, 0.3mm & 0.4mm nozzles only)*
-  * 0.08mm SUPERDETAIL
-  * 0.10mm HIGHDETAIL
-  * 0.12mm DETAIL
+  * 0.06mm ULTRADETAIL	*(0.2mm nozzle only)*
+  * 0.08mm SUPERDETAIL	*(0.2mm & 0.3mm nozzles only)*
+  * 0.10mm HIGHDETAIL	*(0.2mm, 0.3mm & 0.4mm nozzles only)*
+  * 0.12mm DETAIL		*(0.2mm, 0.3mm, 0.4mm & 0.5mm nozzles only)*
   * 0.16mm OPTIMAL
-  * 0.20mm NORMAL
-  * 0.24mm DRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.28mm SUPERDRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.36mm CHUNKY  *(0.5mm & 0.6mm nozzles only)*
-  * 0.44mm SUPERCHUNKY  *(0.6mm nozzle only)*
+  * 0.20mm NORMAL		*(0.3mm, 0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.24mm DRAFT		*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.28mm SUPERDRAFT	*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.36mm CHUNKY		*(0.5mm & 0.6mm nozzles only)*
+  * 0.44mm SUPERCHUNKY	*(0.6mm nozzle only)*
 * Print Speeds:
   * STANDARD
   * SPEED
@@ -69,16 +69,16 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 * Extruder: Titan Direct Drive
 * Nozzles: 0.2mm, 0.3mm, 0.4mm, 0.5mm & 0.6mm
 * Print Profiles:
-  * 0.06mm ULTRADETAIL  *(0.2mm, 0.3mm & 0.4mm nozzles only)*
-  * 0.08mm SUPERDETAIL
-  * 0.10mm HIGHDETAIL
-  * 0.12mm DETAIL
+  * 0.06mm ULTRADETAIL	*(0.2mm nozzle only)*
+  * 0.08mm SUPERDETAIL	*(0.2mm & 0.3mm nozzles only)*
+  * 0.10mm HIGHDETAIL	*(0.2mm, 0.3mm & 0.4mm nozzles only)*
+  * 0.12mm DETAIL		*(0.2mm, 0.3mm, 0.4mm & 0.5mm nozzles only)*
   * 0.16mm OPTIMAL
-  * 0.20mm NORMAL
-  * 0.24mm DRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.28mm SUPERDRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.36mm CHUNKY  *(0.5mm & 0.6mm nozzles only)*
-  * 0.44mm SUPERCHUNKY  *(0.6mm nozzle only)*
+  * 0.20mm NORMAL		*(0.3mm, 0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.24mm DRAFT		*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.28mm SUPERDRAFT	*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.36mm CHUNKY		*(0.5mm & 0.6mm nozzles only)*
+  * 0.44mm SUPERCHUNKY	*(0.6mm nozzle only)*
 * Print Speeds:
   * STANDARD
   * SPEED
@@ -92,16 +92,16 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 * Extruder: Titan Direct Drive
 * Nozzles: 0.3mm, 0.4mm, 0.5mm & 0.6mm
 * Print Profiles:
-  * 0.06mm ULTRADETAIL  *(0.3mm & 0.4mm nozzles only)*
-  * 0.08mm SUPERDETAIL
-  * 0.10mm HIGHDETAIL
-  * 0.12mm DETAIL
+  * 0.06mm ULTRADETAIL	*(0.2mm nozzle only)*
+  * 0.08mm SUPERDETAIL	*(0.2mm & 0.3mm nozzles only)*
+  * 0.10mm HIGHDETAIL	*(0.2mm, 0.3mm & 0.4mm nozzles only)*
+  * 0.12mm DETAIL		*(0.2mm, 0.3mm, 0.4mm & 0.5mm nozzles only)*
   * 0.16mm OPTIMAL
-  * 0.20mm NORMAL
-  * 0.24mm DRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.28mm SUPERDRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.36mm CHUNKY  *(0.5mm & 0.6mm nozzles only)*
-  * 0.44mm SUPERCHUNKY  *(0.6mm nozzle only)*
+  * 0.20mm NORMAL		*(0.3mm, 0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.24mm DRAFT		*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.28mm SUPERDRAFT	*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.36mm CHUNKY		*(0.5mm & 0.6mm nozzles only)*
+  * 0.44mm SUPERCHUNKY	*(0.6mm nozzle only)*
 * Print Speeds:
   * STANDARD
   * SPEED
@@ -115,16 +115,16 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 * Extruder: Titan Direct Drive
 * Nozzles: 0.3mm, 0.4mm, 0.5mm & 0.6mm
 * Print Profiles:
-  * 0.06mm ULTRADETAIL  *(0.3mm & 0.4mm nozzles only)*
-  * 0.08mm SUPERDETAIL
-  * 0.10mm HIGHDETAIL
-  * 0.12mm DETAIL
+  * 0.06mm ULTRADETAIL	*(0.2mm nozzle only)*
+  * 0.08mm SUPERDETAIL	*(0.2mm & 0.3mm nozzles only)*
+  * 0.10mm HIGHDETAIL	*(0.2mm, 0.3mm & 0.4mm nozzles only)*
+  * 0.12mm DETAIL		*(0.2mm, 0.3mm, 0.4mm & 0.5mm nozzles only)*
   * 0.16mm OPTIMAL
-  * 0.20mm NORMAL
-  * 0.24mm DRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.28mm SUPERDRAFT  *(0.4mm, 0.5mm & 0.6mm nozzles only)*
-  * 0.36mm CHUNKY  *(0.5mm & 0.6mm nozzles only)*
-  * 0.44mm SUPERCHUNKY  *(0.6mm nozzle only)*
+  * 0.20mm NORMAL		*(0.3mm, 0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.24mm DRAFT		*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.28mm SUPERDRAFT	*(0.4mm, 0.5mm & 0.6mm nozzles only)*
+  * 0.36mm CHUNKY		*(0.5mm & 0.6mm nozzles only)*
+  * 0.44mm SUPERCHUNKY	*(0.6mm nozzle only)*
 * Print Speeds:
   * STANDARD
   * SPEED
