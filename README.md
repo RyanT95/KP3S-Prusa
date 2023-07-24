@@ -3,6 +3,8 @@ PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder) & KP3S Pro S1, also 
 
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/banner.PNG)
 
+[Image Showcase!](https://github.com/RyanT95/KP3S-Prusa/edit/main/README.md#images)
+
 ## How to use
 * Download the [latest release.](https://github.com/RyanT95/KP3S-Prusa/releases/latest)
 
@@ -136,26 +138,26 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 
 
 ## Images
+#### KP3S - Original
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-original.PNG)
-### KP3S - Original
 
+#### KP3S - Default
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s.PNG)
-### KP3S - Default
 
+#### KP3S - Alternate 1
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-alt1.PNG)
-### KP3S - Alternate 1
 
+#### KP3S - Alternate 2
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-alt2.PNG)
-### KP3S - Alternate 2
 
+#### KP3S - Alternate 3
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-alt3.PNG)
-### KP3S - Alternate 3
 
+#### Pro S1 - Default
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3spros1.PNG)
-### Pro S1 - Default
 
+#### Pro S1 - Alternate 1
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3spros1-alt1.PNG)
-### Pro S1 - Alternate 1
 
 
 ## License
