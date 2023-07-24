@@ -1,6 +1,7 @@
 # Kingroon KP3S 3.0 & KP3S Pro S1 Prusa Profiles
 PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder) & KP3S Pro S1, also includes a version for BLTouch.
 
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/banner.PNG)
 
 ## How to use
 * Download the [latest release.](https://github.com/RyanT95/KP3S-Prusa/releases/latest)
@@ -21,13 +22,13 @@ PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder) & KP3S Pro S1, also 
   * To use the alternate texture, change lines *34* and *53* in *'Kingroon.ini'* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-alt.svg```
   * To use the Kingroon texture, change lines *29* and *48* in *'Kingroon.ini'* from ```bed_model = kp3s_bed.stl``` to ```bed_model = kp3s_bed_original.stl```, and lines *34* and *53* from ```bed_texture = kp3s.svg``` to ```bed_texture = kp3s-original.svg```
   
-  ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/7.PNG)
+  ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/5.PNG)
 
 ## How to update
 * Extract the ZIP and move the **'Kingroon.idx'** & **'Kingroon.ini'** files and the **'Kingroon'** folder to: ```<PRUSA-INSTALL-DIR>\Prusa3D\PrusaSlicer\resources\profiles```
 
 * Open PrusaSlicer, go to 'Configuration' and click 'Check for Configuration Updates'.
-![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/6.PNG)
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/4.PNG)
 
 ## Firmware
 I have only tested these profiles with Marlin firmware, but they should still work with the stock firmware.
@@ -135,10 +136,26 @@ If you are still running stock firmware, I *strongly* suggest upgrading to Marli
 
 
 ## Images
-![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/2.PNG)
-![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/4.PNG)
-![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/5.PNG)
-![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/8.PNG)
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-original.PNG)
+### KP3S - Original
+
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s.PNG)
+### KP3S - Default
+
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-alt1.PNG)
+### KP3S - Alternate 1
+
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-alt2.PNG)
+### KP3S - Alternate 2
+
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3s-alt3.PNG)
+### KP3S - Alternate 3
+
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3spros1.PNG)
+### Pro S1 - Default
+
+![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/kp3spros1-alt1.PNG)
+### Pro S1 - Alternate 1
 
 
 ## License
