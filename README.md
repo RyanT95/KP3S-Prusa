@@ -3,7 +3,7 @@ PrusaSlicer profiles for Kingroon KP3S 3.0 (Titan Extruder) & KP3S Pro S1, also 
 
 ![Logo](https://github.com/RyanT95/KP3S-Prusa/blob/main/_screenshots/banner.PNG)
 
-[Image Showcase!](https://github.com/RyanT95/KP3S-Prusa/edit/main/README.md#images)
+[Image Showcase!](https://github.com/RyanT95/KP3S-Prusa#images)
 
 ## How to use
 * Download the [latest release.](https://github.com/RyanT95/KP3S-Prusa/releases/latest)
